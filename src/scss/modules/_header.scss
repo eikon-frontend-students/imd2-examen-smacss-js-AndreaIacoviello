@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  height: 120px;
+  padding: 0px 52px 0px 53px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  background: var(--dark-blue, #005564);
+}
+.header h1 {
+  display: flex;
+  height: 120px;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  color: var(--white, #fff);
+  text-align: center;
+  font-family: "Francois One";
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120px;
+}
