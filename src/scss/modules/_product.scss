@@ -5,6 +5,7 @@
   align-items: center;
   gap: 20px;
   padding-bottom: 20px;
+  background: var(--green, #a0d187);
 }
 .product h3 {
   align-self: stretch;
@@ -26,6 +27,7 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  display: none;
 }
 
 .product i {
